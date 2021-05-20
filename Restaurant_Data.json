@@ -1,0 +1,101 @@
+{
+	"Snack": [{
+			"id": 1,
+			"img": "https://thumbs.dreamstime.com/z/indian-special-traditional-fried-food-vada-pav-vada-pav-104287098.jpg",
+			"price": "20",
+			"title": "vadapav"
+		},
+		{
+			"id": 2,
+			"img": "https://thumbs.dreamstime.com/z/pizza-rustic-italian-mozzarella-cheese-basil-leaves-35669930.jpg",
+			"price": "200",
+			"title": "pizza"
+		}
+
+	],
+	"Meals": [{
+			"id": 1,
+			"title": "Butter Chicken",
+			"img": "https://static.toiimg.com/thumb/53205522.cms?imgsize=302803&width=800&height=800",
+			"price": 150
+		},
+		{
+			"id": 2,
+			"title": "Mutton Rogan",
+			"img": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
+			"price": 180
+		},
+
+		{
+			"id": 3,
+			"title": "Chicken Kolhapuri",
+			"img": "https://i.ytimg.com/vi/N5fn6HtoTdw/maxresdefault.jpg",
+			"price": 150
+		},
+
+		{
+			"id": 4,
+			"title": "Mutton Yakhni",
+			"img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Kashmiri_Style_Yakhni_Mutton_Gravy_Recipe-4.jpg",
+			"price": 150
+		}
+
+	],
+	"Drinks": [{
+			"id": 1,
+			"title": "Thumbs Up",
+			"img": "https://images-na.ssl-images-amazon.com/images/I/51iRcXYzS-L._SX385_PIbundle-6,TopRight,0,0_SX385SY462SH20_.jpg",
+			"price": 20
+		},
+		{
+			"id": 2,
+			"title": "Coca-Cola",
+			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PBl8skUneRHOzc4aWOC4aGk_CvMZvAzUGA&usqp=CAU",
+			"price": 15
+		},
+		{
+			"id": 3,
+			"title": "Pepsi",
+			"img": "https://c4.wallpaperflare.com/wallpaper/928/1016/1015/ice-drops-glass-bank-wallpaper-preview.jpg",
+			"price": 15
+		},
+
+		{
+			"id": 4,
+			"title": "Mountain Dew",
+			"img": "https://www.pngitem.com/pimgs/m/487-4875579_mountain-dew-330ml-can-mountain-dew-330ml-hd.png",
+			"price": 15
+		}
+
+	],
+	"Dessert": [{
+			"id": 1,
+			"title": "Strawberry",
+			"img": "https://blogghetti.com/wp-content/uploads/2020/06/Easy-Strawberry-Mousse.jpg",
+			"price": 100
+		},
+		{
+			"id": 2,
+			"title": "Chocolate",
+			"img": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/08/chocolate-mousse-cake.jpg",
+			"price": 80
+		},
+
+		{
+			"id": 3,
+			"title": "Butter Scotch",
+			"img": "https://www.theflavorbender.com/wp-content/uploads/2019/07/Butterscotch-Pecan-Ice-Cream-Featured.jpg",
+			"price": 60
+		},
+
+		{
+			"id": 4,
+			"title": "Tooti Frooti",
+			"img": "https://hirasweets.com/wp-content/uploads/2020/06/tutti-frutti-ice-cream.jpg",
+			"price": 40
+		}
+
+	]
+
+
+}
